@@ -1,6 +1,6 @@
 # itunes_catalog
 
-![](itunes_gif.gif)
+![Demo](gif_itunes.gif)
 
 ## To start the project..
 

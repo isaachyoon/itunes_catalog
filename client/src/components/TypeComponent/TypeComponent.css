@@ -1,0 +1,8 @@
+.type-component {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: .1rem #c7c7c7 solid;
+  min-width: 50rem;
+  overflow: auto;
+}

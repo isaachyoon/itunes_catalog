@@ -1,0 +1,31 @@
+
+.tabs {
+  display: flex;
+}
+
+.tab {
+  display: flex;
+  height: 2rem;
+  justify-content: center;
+  align-items: center;
+  border: .1rem solid #c7c7c7;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  padding: 1.2rem;
+  width: 12rem;
+  top: .1rem;
+  border-bottom: none;
+  margin-right: .2rem;
+  border-bottom: none;
+}
+
+.tab.true {
+  background:#FFFFFF;
+  position: relative;
+  top: .07rem;
+  border-bottom: .1rem solid #fff;
+}
+
+.tab.false {
+  background: white;
+}

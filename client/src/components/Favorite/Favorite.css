@@ -1,0 +1,9 @@
+.favorite-container {
+  border: .1rem solid #c7c7c7;
+  height: 30rem;
+  display: flex;
+  padding: 1rem;
+  flex-wrap: wrap;
+  border-radius: 0 1rem 1rem 1rem;
+  overflow: auto;
+}
